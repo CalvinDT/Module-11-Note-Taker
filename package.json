@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CalvinDT/Module-11-Note-Taker/issues"
   },
-  "homepage": "https://github.com/CalvinDT/Module-11-Note-Taker#readme"
+  "homepage": "https://github.com/CalvinDT/Module-11-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
