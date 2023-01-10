@@ -49,7 +49,7 @@ The goal of this project was to modify starter code to create an application cal
 ## Links
 
 - [GitHub Repository](https://github.com/tracye1083/Note-Taker)
-- [Deployed Application]
+- [Deployed Application](https://note-taker-expressed.herokuapp.com/)
 
 ---
 
